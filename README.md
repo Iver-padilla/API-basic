@@ -1,0 +1,1 @@
+Lo que hace esta API es que cuando la inicias tienes que pegar tal cual el host y te mostraria un "hola". Sabe hacer sumas haciendo http://Localhost:3000/suma/3/7 (el 3+7 es obviamente un ejemplo, puedes poner mas cosas)
